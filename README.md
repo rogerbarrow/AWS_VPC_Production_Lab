@@ -9,3 +9,7 @@ Step 1: Create a VPC
 ![image](https://github.com/user-attachments/assets/3b3359dd-8e93-4cfb-9874-6ea46fb01f21)
 
 ![image](https://github.com/user-attachments/assets/5eafe2c1-374f-4642-ade2-a33f2e46f039)
+
+Step 2: Create a ASG
+
+An Auto Scaling Group (ASG) in AWS automatically manages EC2 instances to ensure your application has the right capacity to handle demand. It adjusts instance numbers dynamically based on metrics (e.g., CPU usage), schedules scaling for specific times, and maintains high availability by distributing instances across Availability Zones. ASGs replace unhealthy instances, integrate with load balancers for traffic distribution, and optimize costs by scaling resources as needed.
