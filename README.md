@@ -24,3 +24,10 @@ you Will need to make sure that the Ec2 instance is in the same VPC
 You should know have 3 running instance now
 ![image](https://github.com/user-attachments/assets/7f77c655-6e63-4b0b-996e-a2b56f4d1a53)
 
+next we run the SCP command
+
+The scp (Secure Copy Protocol) command in Linux is used to securely transfer files between a local system and a remote system, or between two remote systems, over SSH (Secure Shell). It encrypts both the files and the authentication credentials to ensure secure transmission.
+
+!Congrats your now connect to your bastion host
+![image](https://github.com/user-attachments/assets/32cc91fe-5d58-4b29-aaf5-88ed4203e414)
+
