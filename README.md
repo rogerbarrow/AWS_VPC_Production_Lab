@@ -21,4 +21,6 @@ An Auto Scaling Group (ASG) in AWS automatically manages EC2 instances to ensure
 you Will need to make sure that the Ec2 instance is in the same VPC
 ![image](https://github.com/user-attachments/assets/0b152aab-9e42-46ae-8b02-f7665248a706)
 
+You should know have 3 running instance now
+![image](https://github.com/user-attachments/assets/7f77c655-6e63-4b0b-996e-a2b56f4d1a53)
 
